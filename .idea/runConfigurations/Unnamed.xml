@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="view.LoginPage" />
+    <module name="hotel 4" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\Belkacem\Downloads\projet bd\javafx-sdk-24.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
